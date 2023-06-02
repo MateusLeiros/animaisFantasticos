@@ -5,6 +5,7 @@ import initTabNav from "./modules/tabnav.js";
 import initModal from "./modules/modal.js";
 import initToolTip from "./modules/tooltip.js";
 import initDropdownMenu from "./modules/dropdown-menu.js";
+import initMenuMobile from "./modules/menu-mobile.js";
 
 initScrollSuave();
 initAnimacaoScroll();
@@ -13,3 +14,4 @@ initTabNav();
 initModal();
 initToolTip();
 initDropdownMenu();
+initMenuMobile();
